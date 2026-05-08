@@ -123,6 +123,16 @@ python benchmark_forces.py
 python test_md_checks.py`}
           </pre>
         </article>
+
+        <article className="post" id="credits">
+          <header className="major">
+            <h2>Credits</h2>
+          </header>
+          <p>
+            Design inspiration: <a href="https://html5up.net/massively" target="_blank" rel="noreferrer">Massively</a>{" "}
+            by <a href="https://html5up.net" target="_blank" rel="noreferrer">HTML5 UP</a>.
+          </p>
+        </article>
       </section>
     </main>
   );
